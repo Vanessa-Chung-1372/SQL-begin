@@ -35,3 +35,5 @@ PRIMARY KEY(`student_id`)
 
 SELECT * FROM `student`;
 UPDATE `student`
+
+# add a comment
